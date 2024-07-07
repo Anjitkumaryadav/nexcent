@@ -1,6 +1,6 @@
 import React from "react"
 import AnimatedNumber from "../AnimatedNumber/AnimatedNumber"
-import LazyLoading from "../LazyLoading/LazyLoading"
+
 
 const Helping = () => {
   return (

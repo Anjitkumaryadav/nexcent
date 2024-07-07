@@ -4,7 +4,6 @@ import {BsTwitter} from 'react-icons/bs'
 import {BsYoutube} from 'react-icons/bs'
 import {PiTelegramLogoBold} from 'react-icons/pi'
 
-import footerlogo from '../../assets/footerlogo.svg'
 
 
 const Footer = () => {
